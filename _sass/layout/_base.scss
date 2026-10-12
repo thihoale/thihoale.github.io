@@ -364,4 +364,26 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
     .page__footer {
       display: none;
     }
+   
+   /* ==========================================
+      CUSTOM PINK HIGHLIGHTS
+      ========================================== */
+   
+   /* Pink bold text */
+   .page__content strong,
+   .page__content b {
+     color: #C45A86;
+   }
+   
+   /* Pink links in page content */
+   .page__content a {
+     color: #C45A86;
+   }
+   
+   /* Slightly darker pink on hover */
+   .page__content a:hover {
+     color: #A83F6B;
+   }
+
+   
   }
