@@ -10,7 +10,7 @@ redirect_from:
 I am **Thi Hoa LE**, a PhD student in Computer Science at
 **Université Claude Bernard Lyon 1**, conducting my research
 at **LIRIS** under the supervision of
-**Prof. Angela Bonifati** and **Dr. Andrea Mauri**.
+**Prof. Angela Bonifati** and **Prof. Andrea Mauri**.
 
 My research focuses on **data management and data quality**,
 particularly user-guided data curation in distributed
