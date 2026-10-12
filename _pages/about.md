@@ -12,10 +12,8 @@ I am **Thi Hoa LE**, a PhD student in Computer Science at
 at **LIRIS** under the supervision of
 **[Prof. Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/index.shtml)** and **[Prof. Andrea Mauri](https://www.andreamauri.me/)**.
 
-My research focuses on **data management and data quality**,
-particularly user-guided data curation in distributed
-environments. I am also interested in **Large Language Models
-(LLMs), AI Agents, Natural Language Processing (NLP)**
+My research focuses on data management and data quality in distributed environments. I am also interested in Large Language Models
+(LLMs), AI Agents, Natural Language Processing (NLP)
 
 Before starting my PhD, I completed a Master's degree in
 **Data and Information Systems Science (DISS)** at
