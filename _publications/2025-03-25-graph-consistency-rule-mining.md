@@ -1,4 +1,3 @@
-
 ---
 title: "Graph Consistency Rule Mining with LLMs: An Exploratory Study"
 collection: publications
