@@ -15,8 +15,7 @@ at **LIRIS** under the supervision of
 My research focuses on **data management and data quality**,
 particularly user-guided data curation in distributed
 environments. I am also interested in **Large Language Models
-(LLMs), AI Agents, Natural Language Processing (NLP)**,
-and **Human-in-the-Loop approaches**.
+(LLMs), AI Agents, Natural Language Processing (NLP)**
 
 Before starting my PhD, I completed a Master's degree in
 **Data and Information Systems Science (DISS)** at
