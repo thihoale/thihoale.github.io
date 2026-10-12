@@ -31,7 +31,6 @@ internship at LIRIS. Previously, I studied at the
 - Large Language Models (LLMs)
 - AI Agents and Agentic Systems
 - Natural Language Processing (NLP)
-- Human-in-the-Loop Data Curation
 - Distributed Data Management
 
 
