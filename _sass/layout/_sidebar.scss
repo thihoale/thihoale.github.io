@@ -148,14 +148,14 @@
 
   @include breakpoint($large) {
     display: block;
-    width: 160px;
-    height: 160px;
+    width: 150px;
+    height: 150px;
   }
 
   img {
     display: block;
-    width: 160px;
-    height: 160px;
+    width: 150px;
+    height: 150px;
     max-width: none;
     object-fit: cover;
     object-position: center 35%;
