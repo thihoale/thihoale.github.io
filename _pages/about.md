@@ -44,8 +44,8 @@ LIRIS – CNRS UMR 5205
 Université Claude Bernard Lyon 1, France
 
 **2016 – 2021**  
-**Posts and Telecommunications Institute of Technology (PTIT)**  
-Hanoi, Vietnam
+**B.Eng. in Information Technology, 2021**  
+Posts and Telecommunications Institute of Technology (PTIT), Vietnam
 
 ## Professional & Research Experience
 
